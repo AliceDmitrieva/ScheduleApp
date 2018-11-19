@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Schedule Application</string>
+    <string name="name_text">name</string>
+    <string name="start_time_text">start time</string>
+    <string name="dash">-</string>
+    <string name="end_time_text">end time</string>
+    <string name="teacher_text">teacher</string>
+    <string name="place_text">place</string>
+    <string name="description_text">description</string>
+    <string name="lack_internet_text">Отсутствует интернет соединение</string>
+</resources>
